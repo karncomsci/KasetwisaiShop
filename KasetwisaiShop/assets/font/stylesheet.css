@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Anton';
+    src: url('Anton-Regular.eot');
+    src: url('Anton-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Anton-Regular.woff2') format('woff2'),
+        url('Anton-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik Iso';
+    src: url('RubikIso-Regular.eot');
+    src: url('RubikIso-Regular.eot?#iefix') format('embedded-opentype'),
+        url('RubikIso-Regular.woff2') format('woff2'),
+        url('RubikIso-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('TiltNeon-Regular.eot');
+    src: url('TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TiltNeon-Regular.woff2') format('woff2'),
+        url('TiltNeon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('TiltNeon-Regular.eot');
+    src: url('TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TiltNeon-Regular.woff2') format('woff2'),
+        url('TiltNeon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

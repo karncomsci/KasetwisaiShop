@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Anton';
+    src: url('@/assets/font/Anton-Regular.eot');
+    src: url('@/assets/font/Anton-Regular.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/font/Anton-Regular.woff2') format('woff2'),
+        url('@/assets/font/Anton-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik Iso';
+    src: url('@/assets/font/RubikIso-Regular.eot');
+    src: url('@/assets/font/RubikIso-Regular.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/font/RubikIso-Regular.woff2') format('woff2'),
+        url('@/assets/font/RubikIso-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('@/assets/font/TiltNeon-Regular.eot');
+    src: url('@/assets/font/TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/font/TiltNeon-Regular.woff2') format('woff2'),
+        url('@/assets/font/TiltNeon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('@/assets/font/TiltNeon-Regular.eot');
+    src: url('@/assets/font/TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/font/TiltNeon-Regular.woff2') format('woff2'),
+        url('@/assets/font/TiltNeon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    
+}
+.custom-red{
+    color: red;
+}
+.custom-sky{
+    color:skyblue
+}
