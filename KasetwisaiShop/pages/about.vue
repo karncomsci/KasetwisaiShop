@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>about</h1>
-        <img :src="$getImage('doll-2.jpg')" alt="" srcset="">
+        <img :src="useImage('doll-2.jpg')" alt="" srcset="">
 
         <div>
             <h2 class="custom-red">this is red</h2>
